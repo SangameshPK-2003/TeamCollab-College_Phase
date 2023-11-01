@@ -32,8 +32,8 @@ I am proud to introduce our  team members:
 2. [Kallangouda](https://github.com/Kallangouda)
 3. [Prajwal](https://github.com/prajwal-r-h)
 4. [Nagraj](https://github.com/Nagaraja-Kamatar)
-5. [Sangmesh](https://github.com/SangameshPK-2003)
-6. [Me](https://github.com/Sahil-s-i)
+5. [Me](https://github.com/SangameshPK-2003)
+6. [Sahil](https://github.com/Sahil-s-i)
 
 ## About the Project
 
